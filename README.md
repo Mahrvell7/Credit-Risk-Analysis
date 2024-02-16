@@ -62,8 +62,11 @@ cb_preson_cred_hist_length: The length of credit history for the individual.
 
    # Model accurracy
 Accuracy (Logistic Regression - Default): 0.8623599815866196
+
 Accuracy (Random Forest - Default): 0.9288015958263004
+
 Accuracy (Gradient Boosting - Default): 0.9206690194874942
+
 Accuracy (XGBoost - Default): 0.9341721651066441
 
 Based on these results, XGBoost achieved the highest accuracy among the models without hyperparameter tuning.
